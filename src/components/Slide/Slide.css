@@ -1,0 +1,13 @@
+
+
+  .slider{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+    width: 100%;
+}
+
+.image{
+  height: 100%;
+}

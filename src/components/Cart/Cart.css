@@ -1,0 +1,51 @@
+.CartPage{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.productgrid{
+    width: 90%;
+}
+
+.navBarCart{
+    color: white;
+    padding: 0em 0em 0.2em 2em;
+    display: flex;
+    align-items: center;
+    background-image: linear-gradient(to bottom ,#0bd4c2,#a2a5ff);
+    width: 100%;
+    height: 8vh;
+    font-size: 2em;
+    margin: 0em 0em 2em 0em;
+}
+
+.Your_Order_Items{
+    width: 95%;
+    margin-bottom: 1em;
+}
+
+.CartItemsDisplay{
+    padding: 1em 0em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+}
+
+.Grid{
+    width: 90%;
+}
+
+.Total{
+    margin: 1em 1em;
+}
+
+.PlaceOrder{
+    font-size: 2em;
+    border-radius: 15px;
+    width: 90%;
+    margin-bottom: 1em;
+}
